@@ -1,6 +1,6 @@
 # 1/05/2025
 # An improved calculator that allows the user to add, multiply, subtract, and divide.
-# It also allows the user to select the kind of operation they want to perfrom.
+# It also allows the user to select the kind of operation they want to perfrom .
 # It also makes use of if statements
 
 # Create 3 variables to store 2 numbers, and the operator the user wants to use
