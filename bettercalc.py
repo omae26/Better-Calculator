@@ -11,7 +11,7 @@ num1 = float(input("Enter first number: "))
 op = input("Enter operator: ")
 num2 = float(input("Enter second number: "))
 
-# Now we can use if statements to check which operator the user wants to use.
+# Now, we can use if statements to check which operator the user wants to use.
 # == means equals to
 if op == "+":
     print(num1 +num2)
